@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left"><h4>💻 Desenvolvedor Full Stack em Formação | Estudante de Engenharia de Software</h4><br><br>Olá! Sou um desenvolvedor em formação, atualmente terminando um bootcamp de Java Full Stack. Estou cursando Engenharia de Software e sempre em busca de novos conhecimentos e desafios que me permitam crescer na área de tecnologia.</p>
+<p align="left"><h4>💻 Desenvolvedor Full Stack em Formação | Estudante de Engenharia de Software</h4><br>Olá! Sou um desenvolvedor em formação, atualmente terminando um bootcamp de Java Full Stack. Estou cursando Engenharia de Software e sempre em busca de novos conhecimentos e desafios que me permitam crescer na área de tecnologia.</p>
 
 ###
 
-<p align="left">🔧 Habilidades:<br><br>- Java Full Stack: Em desenvolvimento de aplicações robustas e escaláveis.<br><br>- Python: Conhecimento básico em Python: Conhecimento intermediário em Python, utilizado para automação, análise de dados e desenvolvimento web.<br><br>- Engenharia de Software: Foco em metodologias e práticas para a criação de software de alta qualidade.</p>
+<p align="left"><h4>🔧 Habilidades:</h4><br>- Java Full Stack: Em desenvolvimento de aplicações robustas e escaláveis.<br><br>- Python: Conhecimento básico em Python: Conhecimento intermediário em Python, utilizado para automação, análise de dados e desenvolvimento web.<br><br>- Engenharia de Software: Foco em metodologias e práticas para a criação de software de alta qualidade.</p>
 
 ###
 
-<p align="left">📚 Educação:<br><br>- Engenharia de Software: Em andamento, com foco em técnicas de desenvolvimento, design de sistemas e gerenciamento de projetos.<br><br>- Bootcamp Java Full Stack: Conclusão em breve, aprimorando habilidades práticas em desenvolvimento web.</p>
+<p align="left"><h4>📚 Educação:</h4><br>- Engenharia de Software: Em andamento, com foco em técnicas de desenvolvimento, design de sistemas e gerenciamento de projetos.<br><br>- Bootcamp Java Full Stack: Conclusão em breve, aprimorando habilidades práticas em desenvolvimento web.</p>
 
 ###
 
