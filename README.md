@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Desenvolvedor Full Stack em Formação | Estudante de Engenharia de Software<br><br>Olá! Sou um desenvolvedor em formação, atualmente terminando um bootcamp de Java Full Stack. Estou cursando Engenharia de Software e sempre em busca de novos conhecimentos e desafios que me permitam crescer na área de tecnologia.</p>
+<p align="left"><h4>💻 Desenvolvedor Full Stack em Formação | Estudante de Engenharia de Software</h4><br><br>Olá! Sou um desenvolvedor em formação, atualmente terminando um bootcamp de Java Full Stack. Estou cursando Engenharia de Software e sempre em busca de novos conhecimentos e desafios que me permitam crescer na área de tecnologia.</p>
 
 ###
 
