@@ -39,8 +39,4 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/gabriellterto/gabriellterto/output/snake.svg" alt="Snake animation" />
-
-###
