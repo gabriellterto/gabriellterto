@@ -2,21 +2,25 @@
 
 ###
 
-<p align="left"><h4>💻 Desenvolvedor Full Stack em Formação | Estudante de Engenharia de Software</h4><br>Olá! Sou um desenvolvedor em formação, atualmente terminando um bootcamp de Java Full Stack. Estou cursando Engenharia de Software e sempre em busca de novos conhecimentos e desafios que me permitam crescer na área de tecnologia.</p>
+<p align="left">💻 Desenvolvedor Full Stack em Formação | Estudante de Engenharia de Software<br><br>Sou um desenvolvedor em formação, atualmente terminando um bootcamp de Java Full Stack e cursando Engenharia de Software.</p>
 
 ###
 
-<p align="left"><h4>🔧 Habilidades:</h4><br>- Java Full Stack: Em desenvolvimento de aplicações robustas e escaláveis.<br><br>- Python: Conhecimento básico em Python: Conhecimento intermediário em Python, utilizado para automação, análise de dados e desenvolvimento web.<br><br>- Engenharia de Software: Foco em metodologias e práticas para a criação de software de alta qualidade.</p>
+<p align="left">🔧 Habilidades:<br><br>- Java Full Stack<br>- Python: Intermediário</p>
 
 ###
 
-<p align="left"><h4>📚 Educação:</h4><br>- Engenharia de Software: Em andamento, com foco em técnicas de desenvolvimento, design de sistemas e gerenciamento de projetos.<br><br>- Bootcamp Java Full Stack: Conclusão em breve, aprimorando habilidades práticas em desenvolvimento web.</p>
+<p align="left">📚 Educação:<br><br>- Engenharia de Software:  Em andamento<br>- Bootcamp Java Full Stack:  Em conclusão</p>
+
+###
+
+<p align="left">- ♿ PCD (CID 72.4 e 72.5)</p>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriellterto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellterto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriellterto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
@@ -38,11 +42,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/gabriellterto/gabriellterto/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
 
 ###
